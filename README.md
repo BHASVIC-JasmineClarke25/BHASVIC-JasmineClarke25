@@ -3,7 +3,7 @@
 
 **BHASVIC-JasmineClarke25/BHASVIC-JasmineClarke25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 👤 I’m currently an A1 student at BHASVIC, studying double maths, computer science and biology
 - 👔 I’m interested in working in the biology sector
